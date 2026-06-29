@@ -21,7 +21,7 @@ package com.marco.bootcamp.level01_arrays;
  * ==========================================
  */
 
-public class Ex01_MaxNumber {
+public class Ex001FindMaximumNumber {
 
     public static void main(String[] args) {
          int[] n = {4, 9, 2, 15, 7, 9};
@@ -42,3 +42,38 @@ public class Ex01_MaxNumber {
         return max;
     }
 }
+
+
+/*
+* -----------------------------------------------------------
+ * LEARNING NOTES
+ * -----------------------------------------------------------
+ *
+ * Difficulty:
+ * ☆
+ *
+ * Solved Alone:
+ * Yes
+ *
+ * Needed Hints:
+ * No
+ *
+ * Pattern Learned:
+ * Accumulator
+ *
+ * Key Idea:
+ * Find the highest number in an array
+ *
+ * What I Learned:
+ * - How to accumulate the first number in an array and compare them to find the highest number
+ *
+ * Biggest Difficulty:
+ * - None
+ *
+ * Possible Improvements:
+ * - None
+ *
+ * Date:
+ * 2026-06-29
+ * ===========================================================
+ */
