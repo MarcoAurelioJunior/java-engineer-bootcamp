@@ -37,8 +37,8 @@ Learn how to traverse arrays and develop algorithmic thinking.
 
 - ✅ Ex001 - Find Maximum Number
 - ✅ Ex002 - Find Minimum Number
-- ⬜ Ex003 - Calculate Average
-- ⬜ Ex004 - Count Even Numbers
+- ✅ Ex003 - Calculate Average
+- ✅ Ex004 - Count Even Numbers
 - ⬜ Ex005 - Count Odd Numbers
 - ⬜ Ex006 - Calculate Sum
 - ⬜ Ex007 - Find Maximum Even Number
@@ -58,7 +58,7 @@ Learn how to traverse arrays and develop algorithmic thinking.
 
 - ⬜ Ex009 - Find Second Maximum Number
 - ⬜ Ex010 - Find Second Minimum Number
-- ⬜ Ex011 - Find First Duplicate
+- ✅ Ex011 - Find First Duplicate
 - ⬜ Ex012 - Count Duplicate Numbers
 - ⬜ Ex013 - Find Most Frequent Number
 - ⬜ Ex014 - Reverse Array

@@ -1,38 +1,35 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package com.marco.bootcamp.level01_arrays;
 
 /**
  * ==========================================
  * Java Engineer Bootcamp
- * Level 01 - CalculateAvarage
+ * Level 01 - Arrays
  *
  * Exercise 003
- * Find The Avarage Number
+ * Find The Average Number
  *
  * Time: O(n)
  * Space: O(1)
  * ==========================================
  */
 
-public class Ex003FindAvarage {
+public class Ex003FindAverage {
       public static void main(String[] args) {
          double[] numbers= {4, 9, 2, 15, 7, 9};
 
-        double avarageResult = findAvarage(numbers);
-        System.out.println("The avarage is: " + avarageResult);
+        double averageResult = findAverage(numbers);
+        System.out.println("The avarage is: " + averageResult);
     }
       
-      public static double findAvarage(double[] numbers) {
-          double avarage = numbers[0];
+      public static double findAverage(double[] numbers) {
+          double average = numbers[0];
           
           for(int i = 1; i < numbers.length; i++) {
-              avarage += numbers[i];
+              average += numbers[i];
          }
           
-         return avarage / numbers.length;
+         return average / numbers.length;
       }
           
 }
@@ -56,10 +53,10 @@ public class Ex003FindAvarage {
  * Accumulator
  *
  * Key Idea:
- * Find the avarage number in an array of double
+ * Find the average number in an array of double
  *
  * What I Learned:
- * - How to calculate the avarage
+ * - How to calculate the average
  *
  * Biggest Difficulty:
  * - None
