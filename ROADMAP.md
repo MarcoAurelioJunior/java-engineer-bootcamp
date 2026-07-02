@@ -39,8 +39,8 @@ Learn how to traverse arrays and develop algorithmic thinking.
 - ✅ Ex002 - Find Minimum Number
 - ✅ Ex003 - Calculate Average
 - ✅ Ex004 - Count Even Numbers
-- ⬜ Ex005 - Count Odd Numbers
-- ⬜ Ex006 - Calculate Sum
+- ✅ Ex005 - Count Odd Numbers
+- ✅ Ex006 - Calculate Sum
 - ⬜ Ex007 - Find Maximum Even Number
 - ⬜ Ex008 - Find Minimum Odd Number
 
